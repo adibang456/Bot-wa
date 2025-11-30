@@ -1,0 +1,22 @@
+{
+    "name": "Apollo Cursed",
+    "version": "25.0.0",
+    "main": "SangRaja",
+    "scripts": {
+        "start": "node SangRaja.js"
+    },
+    "dependencies": {
+"@whiskeysockets/baileys": "^6.7.18",
+        "axios": "^1.5.0",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "moment": "^2.29.1",
+        "crypto": "latest",
+        "@octokit/rest": "latest",
+        "moment-timezone": "latest",
+        "pino": "^9.5.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "form-data": "^4.0.0"
+    }
+}
